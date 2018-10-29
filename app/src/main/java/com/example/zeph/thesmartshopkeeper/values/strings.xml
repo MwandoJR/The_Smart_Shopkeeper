@@ -1,0 +1,21 @@
+<resources>
+    <string name="business_logo">TODO</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="business_name">BUSINESS NAME</string>
+    <string name="add_items">ADD ITEMS</string>
+    <string name="view_stock">VIEW STOCK</string>
+    <string name="sales">SALES</string>
+    <string name="button">Button</string>
+    <string name="login_or_register">LOGIN or REGISTER</string>
+    <string name="business_logo_img">Business Logo</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
